@@ -1,0 +1,28 @@
+[
+	{
+		"slug": "admin",
+		"pinned": true,
+		"name": "The Creator's recommendations",
+		"description": "These are the creator's recommendations",
+		"entries": [
+			{
+				"slug": "Tower-Of-God"
+			},
+			{
+				"slug": "Fire-Brigade-Of-Flames"
+			},
+			{
+				"slug": "Yokohama-Kaidashi-Kikou"
+			},
+			{
+				"slug": "Komi-san-Wa-Komyushou-Desu"	
+			},
+			{
+				"slug": "Tonikaku-Kawaii"
+			},
+			{
+				"slug": "Karakai-Jouzu-No-Takagi-San"
+			}
+		]
+	}
+]
