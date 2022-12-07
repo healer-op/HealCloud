@@ -2,6 +2,7 @@
 ![stop-button](https://user-images.githubusercontent.com/65026164/168233201-00c8aafb-98b7-42e5-a4e3-f191b0448d8b.png)
 ![delete](https://user-images.githubusercontent.com/65026164/168233225-50cb8584-a913-4f09-b261-c99128713fa3.png)
 
+![image](https://user-images.githubusercontent.com/65026164/206096860-642e0ab5-fe9a-4187-a079-e6f599e824d3.png)
 
 ![image](https://user-images.githubusercontent.com/65026164/162889899-32fa2ab4-2817-446b-ae7c-e02f90ca3026.png)
 ![image](https://user-images.githubusercontent.com/65026164/162890002-c2bcd938-9949-47fb-812e-b55b2fb6c9d2.png)
