@@ -1,6 +1,7 @@
 {
     "imgs": [
       "assets/instax (2).png",
+      "assets/instax (4).png",
       "assets/instax (3).png",
       "assets/instax (4).png"
     ],
@@ -8,6 +9,8 @@
       "hello"
     ],
     "price": [
+      "₹1999",
+      "₹2599",
       "₹1999",
       "₹2599"
     ],
