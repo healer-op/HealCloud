@@ -1,0 +1,20 @@
+{
+    "imgs": [
+      "assets/instax (2).png",
+      "assets/instax (3).png",
+      "assets/instax (4).png"
+    ],
+    "temp1": [
+      "hello"
+    ],
+    "price": [
+      "₹1999",
+      "₹2599"
+    ],
+    "product": [
+      "Instax Mini 9 WithBox",
+      "Instax Mini 9 OpenBox",
+      "Instax Mini 8 WithBox",
+      "Instax Mini 8 OpenBox"
+    ]
+  }
